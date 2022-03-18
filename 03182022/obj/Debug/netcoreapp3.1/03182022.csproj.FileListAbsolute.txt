@@ -1,0 +1,14 @@
+C:\Users\aytnz\Desktop\03182022\03182022\bin\Debug\netcoreapp3.1\03182022.exe
+C:\Users\aytnz\Desktop\03182022\03182022\bin\Debug\netcoreapp3.1\03182022.deps.json
+C:\Users\aytnz\Desktop\03182022\03182022\bin\Debug\netcoreapp3.1\03182022.runtimeconfig.json
+C:\Users\aytnz\Desktop\03182022\03182022\bin\Debug\netcoreapp3.1\03182022.runtimeconfig.dev.json
+C:\Users\aytnz\Desktop\03182022\03182022\bin\Debug\netcoreapp3.1\03182022.dll
+C:\Users\aytnz\Desktop\03182022\03182022\bin\Debug\netcoreapp3.1\03182022.pdb
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.csproj.AssemblyReference.cache
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.AssemblyInfoInputs.cache
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.AssemblyInfo.cs
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.csproj.CoreCompileInputs.cache
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.dll
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.pdb
+C:\Users\aytnz\Desktop\03182022\03182022\obj\Debug\netcoreapp3.1\03182022.genruntimeconfig.cache
